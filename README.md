@@ -1,4 +1,4 @@
-# magic
+# BE Fit - Deep Learning Based Online Fitness Training App.
 
 A new Flutter project.
 
